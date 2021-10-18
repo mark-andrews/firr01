@@ -63,4 +63,6 @@ This is a free to use and full featured web based RStudio.
     * reading in data, etc. 
     This topic will be detailed so that everyone obtains a solid grasp on these fundamentals, which makes all subsequent learning much easier.
 
+# Slides, notes, data
 
+Slides for the workshop are available [here](). Some related notes, which elaborate on the content covered in the workshop are [](). The data files that we will use are available [here]().
