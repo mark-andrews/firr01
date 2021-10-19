@@ -66,3 +66,7 @@ This is a free to use and full featured web based RStudio.
 # Slides, notes, data
 
 Slides for the workshop are available [here](https://mark-andrews.github.io/firr01/slides.html). Some related notes, which elaborate on the content covered in the workshop are [here](https://mark-andrews.github.io/firr01/ten_step_guide_to_R.html). The data files that we will use are available [here](https://github.com/mark-andrews/firr01/tree/master/content/data).
+
+# Videos
+
+The three 2hr sessions will be video recorded. These videos will be hosted on Vimeo, but will be password protected. The password will be sent by email to add attendees. The page with the links to the videos is [here](recordings.md). The videos will be hopefully available to view within 1 hour of the end of each session.
