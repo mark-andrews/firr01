@@ -62,6 +62,7 @@ This is a free to use and full featured web based RStudio.
     * using RStudio projects
     * reading in data, etc. 
     This topic will be detailed so that everyone obtains a solid grasp on these fundamentals, which makes all subsequent learning much easier.
+* *Introduction to wrangling, visualization, statistics*. In the last section of the course, we will provide a very brief introduction to data wrangling, data visualization, and doing statistical analysis in R. These are huge topics, and so here, we just provide a brief introduction.
 
 # Slides, notes, data
 
